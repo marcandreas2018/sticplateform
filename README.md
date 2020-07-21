@@ -1,0 +1,2 @@
+# sticplateform
+GitHub Pages
